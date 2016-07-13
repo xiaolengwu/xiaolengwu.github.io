@@ -14,7 +14,7 @@ url:              "/" # 添加域名（不需要 http:// 前缀），或使用�
 baseurl:          "" # the subpath of your site, e.g. /blog/
 
 twitter:          # 添加你的 Twitter 用户名
-github:           jekyll # 添加你的 GitHub 用户名
+github:          xiaolengwu # 添加你的 GitHub 用户名
 disqus:           # 添加你的 Disqus 评论工具站点名
 
 permalink:        pretty
