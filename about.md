@@ -5,21 +5,18 @@ permalink: /About/
 ---
 
 <center>
-    <p><img src="http://dreamofbook.qiniudn.com/Zero.png" align="center"></p>
+    <p><img src="https://github.com/xiaolengwu/xiaolengwu.github.io/blob/master/images/avatar.jpg" align="center"></p>
 </center>
 
-Ehhhh...I know it's not a good question.
 
-My Name is Azeril. You may find me in sites like douban.com / Goodreads.com / Facebook / Instagram / Twitter / Weibo.com, so on and so forth. It’s easy to know me. My short name is Az., quite easy to remember, right?
+小时候一直在想，在出生之前（前生）我是个什么样子，是不是和儿时懵懂无知一样在某个空间存在着；那死后（来世）又会怎样，就像一觉睡去连梦都不会有仅仅没了意识吗？但马克思唯物论告诉我人的意识是对客观事物的主观反映，没有了形体，意识也就不存在了。所以我不相信有前生和来世，有的只是过去和未来；所以人的一生只是瞬间而短暂的记忆。虽然人生苦短，但生活的方式却有许多种，可以过得惊天动地，也可以活得平平淡淡；可以过得洒脱直率，也可以活得小心谨慎；可以过得豪迈粗放，也可以过得婉约细腻；可以多替他人着想，也可以多考虑自己；不管选择什么样的生活方式，最重要的是始终知道在过自己想要的生活。我从来不信奉宿命论，但我相信种什么因结什么果。对待生活的态度会不断变化，变得全面，客观；对待生活的方式也会跟着变，变得理性，成熟。
 
-喜欢折腾的伪技术宅。一点点 geek，一丢丢的执著，就像吃烧烤时多少会撒一点孜然，恰到好处就够。日常之中，多的是折腾劲，也希望能添几分专注、几许勇敢。这就是我。
-
-——Azeril
+——孝冷悟 2005-12-25
 
 
-> Live long and prosper
+价值观：成熟的爱 内在和谐 智慧
 
-<center>
-    <p><img src="http://dreamofbook.qiniudn.com/hacker.png" align="center"></p>
+
+  
 </center>
 
