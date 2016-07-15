@@ -5,7 +5,7 @@ permalink: /About/
 ---
 
 <center>
-    <p><img src="https://github.com/xiaolengwu/xiaolengwu.github.io/blob/master/images/avatar.jpg" align="center"></p>
+  
 </center>
 
 
@@ -16,7 +16,4 @@ permalink: /About/
 
 价值观：成熟的爱 内在和谐 智慧
 
-
-  
-</center>
 
